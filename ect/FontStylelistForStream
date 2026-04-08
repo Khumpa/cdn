@@ -1,0 +1,13 @@
+https://khumpa.github.io/cdn/ect/fonts/KhuPixL.ttf
+
+
+@font-face{
+    font-family: "KhuPixL";
+    src: url("https://khumpa.github.io/cdn/ect/fonts/KhuPixL.ttf");
+    src: url("https://khumpa.github.io/cdn/ect/fonts/KhuPixL.ttf")format("truetype");
+    font-weight:normal;
+    font-style:normal;
+    font-display:swap;
+}
+ 
+
